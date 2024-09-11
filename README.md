@@ -1,7 +1,7 @@
 # Project - 1: Netflix Data Analysis with Python
 
 <p>The dataset I use for the Netflix data analytics task consists of TV shows and movies streamed on Netflix as of 2019.
-  The dataset is provided by *[Flixable](https://flixable.com/)* which is an engine of third-party research available on Netflix.</p>
+  The dataset is provided by **[Flixable](https://flixable.com/)** which is an engine of third-party research available on Netflix.</p>
 
 ## Objectives of this project
 <ol>
