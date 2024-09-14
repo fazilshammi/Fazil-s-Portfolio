@@ -14,3 +14,15 @@ The dataset is provided by [flixable](https://flixable.com/) which is an engine 
 ### Note
 The final output is not showing in the github so i have added it here. ![image](https://github.com/user-attachments/assets/0045a995-80ff-4036-9ed8-a5b1b0312c72)
 
+
+# Project - 2: [Netflix Data Analysis with Python](https://github.com/fazilshammi/Fazil-s-Portfolio/blob/8d006395764cf6fa8fdcee27fc3f0f2a85cb9d15/Billionaire.ipynb)
+
+The data I use for the Biliionaire data analytics task consists of biliionaires and their data as of 2024.
+The dataset is provided [kaggle](https://www.kaggle.com/datasets/vincentcampanaro/forbes-worlds-billionaires-list-2024?resource=download)
+
+## Objectives of this project
+<ol>
+  <li>Understand what content is available</li>
+  <li>Understand the relationship between the domain and billionaires</li>
+  <li>What exactly is billionaires education that helped them to become a billionaire.</li> 
+</ol>
