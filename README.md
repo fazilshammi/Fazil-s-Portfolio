@@ -27,7 +27,7 @@ The dataset is provided [kaggle](https://www.kaggle.com/datasets/vincentcampanar
   <li>What exactly is billionaires education that helped them to become a billionaire.</li> 
 </ol>
 
-# Project - 3: [Video Games Sales Data Analysis with SQL]
+# Project - 3: [Video Games Sales Data Analysis with SQL](https://github.com/fazilshammi/Fazil-s-Portfolio/blob/7c9215b62b465aaa51aa58e7a48dc31c5786d0ee/Video_games_project.sql)
 
 The data I use for the Video Games Sales data analytics task consists of Video games and their data as of 2020.
 The dataset is provided [kaggle]([https://www.kaggle.com/datasets/vincentcampanaro/forbes-worlds-billionaires-list-2024?resource=download](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv))
