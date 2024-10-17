@@ -41,3 +41,15 @@ The dataset is provided [kaggle](https://www.kaggle.com/datasets/sidtwr/videogam
   <li>Platform and their number of game releases</li> 
   <li>Which region had the best number of sales in each year</li>
 </ol>
+
+# Project - 3: [Jobs Data with POWER BI](https://github.com/fazilshammi/Fazil-s-Portfolio/blob/main/BI%20Final%20Project.pdf)
+he data I use for the job data analytics task consists of different kinds of jobs and salary.
+The dataset is provided by [Alex The Analyst](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+
+## Objectives of this project
+<ol>
+  <li>Countries that survey is taken</li>
+  <li>Average salary of jobs</li>
+  <li> Favourite programming language as per the job</li> 
+  <li>Happiniess of employees(salary)</li> 
+</ol>
