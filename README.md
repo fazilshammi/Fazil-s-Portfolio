@@ -56,7 +56,7 @@ The dataset is provided by [Alex The Analyst](https://github.com/AlexTheAnalyst/
 
 # Project - 5: [Fraud Detection Model]([https://github.com/fazilshammi/Fazil-s-Portfolio/blob/main/BI%20Final%20Project.pdf](https://github.com/fazilshammi/Fazil-s-Portfolio/blob/main/Fraud%20Detection%20Model.ipynb))
 he data I use for the job data analytics task consists of Synthetic Financial Dataset.
-The dataset is in [Kaggle]([https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx](https://www.kaggle.com/datasets/ealaxi/paysim1))
+The dataset is in [Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 ## Objectives of this project
 <ol>
