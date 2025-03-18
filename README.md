@@ -54,7 +54,7 @@ The dataset is provided by [Alex The Analyst](https://github.com/AlexTheAnalyst/
   <li>Happiniess of employees(salary)</li> 
 </ol>
 
-# Project - 5: [Fraud Detection Model]([https://github.com/fazilshammi/Fazil-s-Portfolio/blob/main/BI%20Final%20Project.pdf](https://github.com/fazilshammi/Fazil-s-Portfolio/blob/main/Fraud%20Detection%20Model.ipynb))
+# Project - 5: [Fraud Detection Model](https://github.com/fazilshammi/Fazil-s-Portfolio/blob/main/Fraud%20Detection%20Model.ipynb)
 he data I use for the job data analytics task consists of Synthetic Financial Dataset.
 The dataset is in [Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
